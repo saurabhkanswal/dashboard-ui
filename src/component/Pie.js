@@ -26,7 +26,7 @@ const Piee = ()=>{
     const displayName= 'Pie'
     return(
         <div>
-        <h2>User Overview</h2>
+        <h2 style={{paddingLeft: '1em'}}>User Overview</h2>
         <Pie data={data} />
       </div>
     );
