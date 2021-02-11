@@ -9,7 +9,7 @@ const Home  = ()=>{
         <div className="home-stat-box">
             <StatiticsBox number='233' title='CLIENTS'/>
             <StatiticsBox number='50+' title='PROJECTS'/>
-            <StatiticsBox number='500+' title='DEVELOPES'/>
+            <StatiticsBox number='500+' title='DEVELOPERS'/>
         </div>
         <div className="chart-container">
             <div className="chart"><Chart/></div>
