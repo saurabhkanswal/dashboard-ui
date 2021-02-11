@@ -1,0 +1,17 @@
+.blog-list {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+
+}
+
+.blog-list > p {
+    font-size: 2rem;
+    padding-left: 1em;
+}
+
+#list-icon {
+    padding-right: 1em;
+}
