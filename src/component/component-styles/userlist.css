@@ -1,0 +1,36 @@
+.userlist {
+    display: flex;
+    align-items: center;
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+
+}
+
+.userlist-container {
+    margin-top: 1em;
+    background-color: white;
+}
+
+.userlist > p {
+    font-size: 1.5rem;
+    padding-left: .3em;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.userlist-icon {
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+
+}
+
+.userlist-icon > ul {
+    display: flex;
+    margin-top: .5em;
+    /* border: 1px solid rgba(var(--b6a,219,219,219),1); */
+
+}
+
+#avatar-user {
+    padding-left: 1.3em;
+}

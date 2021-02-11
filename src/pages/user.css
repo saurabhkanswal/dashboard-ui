@@ -1,0 +1,15 @@
+.userContainer-left {
+    /* margin-left: 7em; */
+    /* background-color: white; */
+    width: 60%;
+}
+
+/* .userContainer-right {
+    width: 40%;
+} */
+
+.userContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
